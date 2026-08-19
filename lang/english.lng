@@ -1,0 +1,215 @@
+##grflangid 0x01
+
+# General GRF strings
+STR_GRF_NAME:California Skyscrapers as Objects
+STR_GRF_DESCRIPTION:{}{ORANGE}A variety of California skyscrapers from Los Angeles, San Diego and San Francisco, that can be used as decorative objects. Each building comes with real-world stats and occasional trivia.{}See {DKGREEN}Set parameters {ORANGE}for more detailed settings.{}{}{SILVER}Remake of "Generic Skyscraper Objects Set" by {YELLOW}CaptainKlutz{}{SILVER}Original "California City Set" by {YELLOW}Luxtram{}{SILVER}Updated and recoded by {YELLOW}chujo{}{SILVER}Some decor elements borrowed from {YELLOW}Mrsunman's AEC{}{SILVER}and {YELLOW}Zephyris' Full English.{}{}{SILVER}License: {YELLOW}GPL v2{}{}{}{LTBLUE}August 18, 2026{}{}{}{CREAM}Note:{}A version that works as a drop-in replacement for Generic Skyscraper Objects Set is available: click on {DKGREEN}Visit website {CREAM}or go to github.com/chujo-chujo/California-Skyscrapers-as-Objects.
+STR_GRF_URL:https://github.com/chujo-chujo/California-Skyscrapers-as-Objects
+
+
+# Parameters
+STR_PAR_DATES_NAME:Ignore introduction dates
+STR_PAR_DATES_DESC:{GOLD}The buildings in this set have predefined introduction dates.{}Enable this parameter to ignore the dates.
+
+STR_PAR_REMOVE_NAME:Remove only by demolishing
+STR_PAR_REMOVE_DESC:{GOLD}If enabled, only the demolish tool can be used to remove an object.
+
+STR_PAR_GROUND_NAME:Ground type
+STR_PAR_GROUND_DESC:{GOLD}Select the style of ground tiles.
+STR_PAR_GROUND_TYPE1:Concrete
+STR_PAR_GROUND_TYPE2:Darker concrete
+STR_PAR_GROUND_TYPE3:Darkest concrete
+STR_PAR_GROUND_TYPE4:Concrete slabs
+STR_PAR_GROUND_TYPE5:Darker concrete slabs
+STR_PAR_GROUND_TYPE6:Cobblestone
+
+STR_PAR_DECOR_NAME:Disable ground decoration
+STR_PAR_DECOR_DESC:{GOLD}Toggle extra objects placed around buildings, such as trees, benches, vehicles, pedestrians, etc.
+
+STR_PAR_SNOW_NAME:Hide snow on ground
+STR_PAR_SNOW_DESC:{GOLD}Controls whether snow appears on concrete around buildings.
+
+STR_PAR_MENU_RECOLOR_NAME:Disable recolor preview in menu
+STR_PAR_MENU_RECOLOR_DESC:{GOLD}Some buildings have recolorable elements, whose variants are previewed in the purchase menu at regular intervals.{}Use this parameter to turn off the automatic recoloring.
+
+
+# Class names
+STR_GSLA:Skyscrapers:Los Angeles
+STR_GSSD:Skyscrapers:San Diego
+STR_GSSF:Skyscrapers:San Francisco
+STR_GSFB:Skyscrapers:San Francisco Blocks
+
+# Object strings
+STR_LA_1A:City National Tower
+STR_LA_1A_PURCHASE:{BLACK}Height: {GREEN}213 m{BLACK}  Completed: {GREEN}1971{BLACK}{}Tallest twin towers in Los Angeles.
+STR_LA_1B:Paul Hastings Tower
+STR_LA_1B_PURCHASE:{BLACK}Height: {GREEN}213 m{BLACK}  Completed: {GREEN}1971{BLACK}{}Tallest twin towers in Los Angeles.
+STR_LA_2:Aon Center
+STR_LA_2_PURCHASE:{BLACK}Height: {GREEN}262 m{BLACK}  Completed: {GREEN}1973{BLACK}{}
+STR_LA_3:Union Bank Plaza
+STR_LA_3_PURCHASE:{BLACK}Height: {GREEN}157 m{BLACK}  Completed: {GREEN}1968{BLACK}{}
+STR_LA_4:Gas Company Tower
+STR_LA_4_PURCHASE:{BLACK}Height: {GREEN}228 m{BLACK}  Completed: {GREEN}1991{BLACK}{}77th-tallest building in the United States.
+STR_LA_5A:One California Plaza (1 Cal)
+STR_LA_5A_PURCHASE:{BLACK}Height: {GREEN}176 m{BLACK}  Completed: {GREEN}1985{BLACK}{}
+STR_LA_5B:Two California Plaza (2Cal)
+STR_LA_5B_PURCHASE:{BLACK}Height: {GREEN}229 m{BLACK}  Completed: {GREEN}1992{BLACK}{}Tallest building constructed in Los Angeles in the 1990s.
+STR_LA_6:U.S. Bank Tower
+STR_LA_6_PURCHASE:{BLACK}Height: {GREEN}310 m{BLACK}  Completed: {GREEN}1989{BLACK}{}3rd tallest building in California. Tallest building in the world with a helipad on its roof.
+STR_LA_7:FourFortyFour South Flower
+STR_LA_7_PURCHASE:{BLACK}Height: {GREEN}191 m{BLACK}  Completed: {GREEN}1981{BLACK}{}
+STR_LA_8:777 Tower
+STR_LA_8_PURCHASE:{BLACK}Height: {GREEN}221 m{BLACK}  Completed: {GREEN}1991{BLACK}{}
+STR_LA_9:Ernst & Young Plaza
+STR_LA_9_PURCHASE:{BLACK}Height: {GREEN}163 m{BLACK}  Completed: {GREEN}1985{BLACK}{}
+STR_LA_10:915 Wilshire (NineFifteen)
+STR_LA_10_PURCHASE:{BLACK}Height: {GREEN}88 m{BLACK}  Completed: {GREEN}1980{BLACK}{}
+STR_LA_11:KPMG Tower
+STR_LA_11_PURCHASE:{BLACK}Height: {GREEN}171 m{BLACK}  Completed: {GREEN}1983{BLACK}{}
+STR_LA_12:Wells Fargo Tower
+STR_LA_12_PURCHASE:{BLACK}Height: {GREEN}220 m{BLACK}  Completed: {GREEN}1983{BLACK}{}
+STR_LA_13:Bank of America Plaza
+STR_LA_13_PURCHASE:{BLACK}Height: {GREEN}224 m{BLACK}  Completed: {GREEN}1974{BLACK}{}
+STR_LA_14:400 South Hope
+STR_LA_14_PURCHASE:{BLACK}Height: {GREEN}114 m{BLACK}  Completed: {GREEN}1982{BLACK}{}
+STR_LA_15:One Wilshire
+STR_LA_15_PURCHASE:{BLACK}Height: {GREEN}127 m{BLACK}  Completed: {GREEN}1966{BLACK}{}
+STR_LA_16:700 South Flower Street
+STR_LA_16_PURCHASE:{BLACK}Height: {GREEN}126 m{BLACK}  Completed: {GREEN}1973{BLACK}{}
+STR_LA_17:TCW Tower
+STR_LA_17_PURCHASE:{BLACK}Height: {GREEN}158 m{BLACK}  Completed: {GREEN}1990{BLACK}{}
+STR_LA_18:801 Tower
+STR_LA_18_PURCHASE:{BLACK}Height: {GREEN}116 m{BLACK}  Completed: {GREEN}1992{BLACK}{}
+STR_SD_1:One America Plaza
+STR_SD_1_PURCHASE:{BLACK}Height: {GREEN}152 m{BLACK}  Completed: {GREEN}1991{BLACK}{}Tallest building constructed in the 1990s. Tallest building in California outside of L.A. and San Francisco.
+STR_SD_2:Electra
+STR_SD_2_PURCHASE:{BLACK}Height: {GREEN}145 m{BLACK}  Completed: {GREEN}2007{BLACK}{}
+STR_SD_3A:The Grande at Santa Fe Place
+STR_SD_3A_PURCHASE:{BLACK}Height: {GREEN}128 m{BLACK}  Completed: {GREEN}2005{BLACK}{}
+STR_SD_3B:The Grande at Santa Fe Place
+STR_SD_3B_PURCHASE:{BLACK}Height: {GREEN}128 m{BLACK}  Completed: {GREEN}2005{BLACK}{}
+STR_SD_4:Civic Center Plaza
+STR_SD_4_PURCHASE:{BLACK}Height: {GREEN}85 m{BLACK}  Completed: {GREEN}1973{BLACK}{}
+STR_SD_5:San Diego Union Tribune Building
+STR_SD_5_PURCHASE:{BLACK}Height: {GREEN}103 m{BLACK}  Completed: {GREEN}1974{BLACK}{}Tallest building constructed in the 1970s.
+STR_SD_6:Wells Fargo Plaza
+STR_SD_6_PURCHASE:{BLACK}Height: {GREEN}101 m{BLACK}  Completed: {GREEN}1984{BLACK}{}
+STR_SD_7:Symphony Towers
+STR_SD_7_PURCHASE:{BLACK}Height: {GREEN}152 m{BLACK}  Completed: {GREEN}1989{BLACK}{}Tallest building constructed in the 1980s.
+STR_SD_8:Imperial Bank Tower
+STR_SD_8_PURCHASE:{BLACK}Height: {GREEN}108 m{BLACK}  Completed: {GREEN}1982{BLACK}{}
+STR_SD_9:Executive Complex
+STR_SD_9_PURCHASE:{BLACK}Height: {GREEN}107 m{BLACK}  Completed: {GREEN}1963{BLACK}{}
+STR_SF_1:First Market Tower
+STR_SF_1_PURCHASE:{BLACK}Height: {GREEN}161 m{BLACK}  Completed: {GREEN}1973{BLACK}{}
+STR_SF_2:One Sansome Street
+STR_SF_2_PURCHASE:{BLACK}Height: {GREEN}168 m{BLACK}  Completed: {GREEN}1984{BLACK}{}
+STR_SF_3:JPMorgan Chase Building
+STR_SF_3_PURCHASE:{BLACK}Height: {GREEN}128 m{BLACK}  Completed: {GREEN}2002{BLACK}{}
+STR_SF_4:555 Mission Street
+STR_SF_4_PURCHASE:{BLACK}Height: {GREEN}148 m{BLACK}  Completed: {GREEN}2008{BLACK}{}Tallest office building constructed in the 2000s.
+STR_SF_5:575 Market Street Tower
+STR_SF_5_PURCHASE:{BLACK}Height: {GREEN}175 m{BLACK}  Completed: {GREEN}1975{BLACK}{}
+STR_SF_6A:Spear Tower
+STR_SF_6A_PURCHASE:{BLACK}Height: {GREEN}172 m{BLACK}  Completed: {GREEN}1976{BLACK}{}
+STR_SF_6B:Steuart Tower
+STR_SF_6B_PURCHASE:{BLACK}Height: {GREEN}111 m{BLACK}  Completed: {GREEN}1976{BLACK}{}
+STR_SF_7:45 Fremont Street
+STR_SF_7_PURCHASE:{BLACK}Height: {GREEN}145 m{BLACK}  Completed: {GREEN}1978{BLACK}{}Also known as the Bechtel Building.
+STR_SF_8:Pacific Gas & Electric Building
+STR_SF_8_PURCHASE:{BLACK}Height: {GREEN}150 m{BLACK}  Completed: {GREEN}1971{BLACK}{}
+STR_SF_9:425 Market Street
+STR_SF_9_PURCHASE:{BLACK}Height: {GREEN}158 m{BLACK}  Completed: {GREEN}1973{BLACK}{}
+STR_SF_10:333 Market Street
+STR_SF_10_PURCHASE:{BLACK}Height: {GREEN}144 m{BLACK}  Completed: {GREEN}1979{BLACK}{}
+STR_SF_11:One Montgomery Tower
+STR_SF_11_PURCHASE:{BLACK}Height: {GREEN}152 m{BLACK}  Completed: {GREEN}1982{BLACK}{}
+STR_SF_12:One Post Street
+STR_SF_12_PURCHASE:{BLACK}Height: {GREEN}161{BLACK}  Completed: {GREEN}1969{BLACK}{}
+STR_SF_13:595 Market Street
+STR_SF_13_PURCHASE:{BLACK}Height: {GREEN}125 m{BLACK}  Completed: {GREEN}1979{BLACK}{}
+STR_SF_14:555 Market Street
+STR_SF_14_PURCHASE:{BLACK}Height: {GREEN}95 m{BLACK}  Completed: {GREEN}1964{BLACK}{}
+STR_SF_15:Salesforce West
+STR_SF_15_PURCHASE:{BLACK}Height: {GREEN}183 m{BLACK}  Completed: {GREEN}1985{BLACK}{}
+STR_SF_16:100 First Plaza
+STR_SF_16_PURCHASE:{BLACK}Height: {GREEN}136 m{BLACK}  Completed: {GREEN}1988{BLACK}{}
+STR_SF_17:KPMG Building (55 Second Street)
+STR_SF_17_PURCHASE:{BLACK}Height: {GREEN}100 m{BLACK}  Completed: {GREEN}2002{BLACK}{}
+STR_SF_18:650 California Street
+STR_SF_18_PURCHASE:{BLACK}Height: {GREEN}142 m{BLACK}  Completed: {GREEN}1964{BLACK}{}Tallest building in California from 1965 to 1967.
+STR_SF_19:50 California Street
+STR_SF_19_PURCHASE:{BLACK}Height: {GREEN}148 m{BLACK}  Completed: {GREEN}1972{BLACK}{}Also known as Union Bank Building.
+STR_SF_20:101 Second Street
+STR_SF_20_PURCHASE:{BLACK}Height: {GREEN}108 m{BLACK}  Completed: {GREEN}1999{BLACK}{}
+STR_SF_21:535 Mission Street
+STR_SF_21_PURCHASE:{BLACK}Height: {GREEN}115 m{BLACK}  Completed: {GREEN}2014{BLACK}{}
+STR_SF_22:Millennium Tower
+STR_SF_22_PURCHASE:{BLACK}Height: {GREEN}197 m{BLACK}  Completed: {GREEN}2009{BLACK}{}It has tilted up to 2 inches a year and has sunk as much as 3 inches per year.
+STR_SF_23:Providian Financial Building
+STR_SF_23_PURCHASE:{BLACK}Height: {GREEN}127 m{BLACK}  Completed: {GREEN}1981{BLACK}{}
+STR_SF_24:Pacific Gas & Electric Building
+STR_SF_24_PURCHASE:{BLACK}Height: {GREEN}124 m{BLACK}  Completed: {GREEN}1986{BLACK}{}
+STR_SF_25:115 Main Street
+STR_SF_25_PURCHASE:{BLACK}Height: {GREEN}111 m{BLACK}  Completed: {GREEN}1965{BLACK}{}
+STR_SF_26:160 Spear Street
+STR_SF_26_PURCHASE:{BLACK}Height: {GREEN}99 m{BLACK}  Completed: {GREEN}1984{BLACK}{}
+STR_SF_27:One California
+STR_SF_27_PURCHASE:{BLACK}Height: {GREEN}134 m{BLACK}  Completed: {GREEN}1969{BLACK}{}
+STR_SF_28:44 Montgomery
+STR_SF_28_PURCHASE:{BLACK}Height: {GREEN}172 m{BLACK}  Completed: {GREEN}1967{BLACK}{}Tallest building in California from 1967 to 1969.
+STR_SF_29:100 Pine Center
+STR_SF_29_PURCHASE:{BLACK}Height: {GREEN}145 m{BLACK}  Completed: {GREEN}1972{BLACK}{}
+STR_SF_30:One Front Street
+STR_SF_30_PURCHASE:{BLACK}Height: {GREEN}164 m{BLACK}  Completed: {GREEN}1979{BLACK}{}
+STR_SF_31:St. Regis Museum Tower
+STR_SF_31_PURCHASE:{BLACK}Height: {GREEN}148 m{BLACK}  Completed: {GREEN}2005{BLACK}{}
+STR_SF_32:Four Seasons Residences
+STR_SF_32_PURCHASE:{BLACK}Height: {GREEN}121 m{BLACK}  Completed: {GREEN}2001{BLACK}{}
+STR_SF_33:FDIC Building
+STR_SF_33_PURCHASE:{BLACK}Height: {GREEN}87 m{BLACK}  Completed: {GREEN}1982{BLACK}{}
+STR_SF_34:Central Tower
+STR_SF_34_PURCHASE:{BLACK}Height: {GREEN}91 m{BLACK}  Completed: {GREEN}1938{BLACK}{}
+STR_SF_35:180 Montgomery Street
+STR_SF_35_PURCHASE:{BLACK}Height: {GREEN}98 m{BLACK}  Completed: {GREEN}1979{BLACK}{}
+STR_SF_36:425 California Street
+STR_SF_36_PURCHASE:{BLACK}Height: {GREEN}109 m{BLACK}  Completed: {GREEN}1968{BLACK}{}
+STR_SF_37:Shell Building
+STR_SF_37_PURCHASE:{BLACK}Height: {GREEN}115 m{BLACK}  Completed: {GREEN}1929{BLACK}{}
+STR_SF_38:101 Montgomery
+STR_SF_38_PURCHASE:{BLACK}Height: {GREEN}123 m{BLACK}  Completed: {GREEN}1984{BLACK}{}
+STR_SF_39:235 Pine Street
+STR_SF_39_PURCHASE:{BLACK}Height: {GREEN}99 m{BLACK}  Completed: {GREEN}1990{BLACK}{}
+STR_SF_40:One Bush Plaza
+STR_SF_40_PURCHASE:{BLACK}Height: {GREEN}94 m{BLACK}  Completed: {GREEN}1959{BLACK}{}
+STR_SF_41:353 Sacramento Street
+STR_SF_41_PURCHASE:{BLACK}Height: {GREEN}95 m{BLACK}  Completed: {GREEN}1983{BLACK}{}Also known as the Daon Building.
+STR_SF_42:100 Montgomery Street
+STR_SF_42_PURCHASE:{BLACK}Height: {GREEN}108 m{BLACK}  Completed: {GREEN}1955{BLACK}{}
+STR_SFB_1:San Francisco Block 1
+STR_SFB_1_PURCHASE:{BLACK}Completed: {GREEN}1950
+STR_SFB_2:San Francisco Block 2
+STR_SFB_2_PURCHASE:{BLACK}Completed: {GREEN}1945
+STR_SFB_3:San Francisco Block 3
+STR_SFB_3_PURCHASE:{BLACK}Completed: {GREEN}1900
+STR_SFB_4:San Francisco Block 4
+STR_SFB_4_PURCHASE:{BLACK}Completed: {GREEN}1960
+STR_SFB_5:San Francisco Block 5
+STR_SFB_5_PURCHASE:{BLACK}Completed: {GREEN}1960
+STR_SFB_6:San Francisco Block 6
+STR_SFB_6_PURCHASE:{BLACK}Completed: {GREEN}1950
+STR_SFB_7:San Francisco Block 7
+STR_SFB_7_PURCHASE:{BLACK}Completed: {GREEN}1890
+STR_SFB_8:San Francisco Block 8
+STR_SFB_8_PURCHASE:{BLACK}Completed: {GREEN}1935
+STR_SFB_9:San Francisco Block 9
+STR_SFB_9_PURCHASE:{BLACK}Completed: {GREEN}1915
+STR_SFB_10:San Francisco Block 10
+STR_SFB_10_PURCHASE:{BLACK}Completed: {GREEN}1940
+STR_SFB_11:San Francisco Block 11
+STR_SFB_11_PURCHASE:{BLACK}Completed: {GREEN}1940
+STR_SFB_12:San Francisco Block 12
+STR_SFB_12_PURCHASE:{BLACK}Completed: {GREEN}1915
+STR_SFB_13:San Francisco Block 13
+STR_SFB_13_PURCHASE:{BLACK}Completed: {GREEN}1925
+STR_SFB_14:San Francisco Block 14
+STR_SFB_14_PURCHASE:{BLACK}Completed: {GREEN}1950
